@@ -1,0 +1,44 @@
+input[type=text]{
+    width: 90%;
+    padding: 12px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    margin-bottom: 1em;
+}
+input[type=email]{
+    width: 90%;
+    padding: 12px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    margin-bottom: 1em;
+}
+input[type=submit]{
+   width:20%;
+   padding: 12px 20px;
+   background-color: #6D90B3;
+   color: white;
+   border: 3px solid #dec4c0;
+   margin-top: 1em;
+}
+textarea{
+    width: 90%;
+    padding: 12px 20px;
+    height: 180px;
+    font-size: 16px;
+    resize: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.contact {
+    margin-top: 2em;
+}
+.phone {
+    color: #ce796b;
+    float: right;
+    margin-right: 8em;
+    margin-top: -2em;
+    font-size: 16px;
+    font-weight: bold;
+}

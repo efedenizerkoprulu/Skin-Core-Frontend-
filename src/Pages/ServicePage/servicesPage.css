@@ -1,0 +1,37 @@
+.services-main {
+    background-color: #dec4c0;
+    height: 145em;
+}
+.services-title h2{
+    color: white;
+}
+.services-title h4{
+    color: #495867;
+}
+.section-line{
+    background-color: brown;
+}
+.card-main{
+   
+    width: 90%;
+    align-items: center;
+}
+.card{
+    float: left;
+    padding-bottom: 1em;
+   margin: 2em 4em 1em 7em;
+    border: 5px solid #ce796b;
+}
+.card h2{
+  text-align: center;
+  margin-top: 5px;
+}
+.card img{
+    width: 350px;
+    height: 250px;
+    border-bottom: 5px solid #ce796b;
+}
+.card p{
+    width: 300px;
+    margin-left: 20px;
+}
